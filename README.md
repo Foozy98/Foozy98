@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Foozy98
+- 👋 Hi, im new on github :)
 
 <!---
 Foozy98/Foozy98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
